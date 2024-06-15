@@ -358,6 +358,7 @@ main.row{
   bottom: 0;
   width: 100%;
   background-color: var(--second-bg-color);
+  overflow: hidden;
 }
 
 .footer .social {
