@@ -152,7 +152,7 @@ section {
 }
 
 .home-content h3 {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
 }
 
@@ -174,7 +174,7 @@ span {
 }
 
 .home-content p {
-  font-size: 10px;
+  font-size: 9px;
 }
 
 .social-media a {
@@ -254,7 +254,7 @@ animation: floatImage 4s ease-in-out infinite;
 }
 
 .about-content p {
-  font-size: 14px;
+  font-size: 9px;
   margin: 2rem 0 3rem;
 }
 
