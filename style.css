@@ -174,7 +174,7 @@ span {
 }
 
 .home-content p {
-  font-size: 6px;
+  font-size: 10px;
 }
 
 .social-media a {
@@ -254,7 +254,7 @@ animation: floatImage 4s ease-in-out infinite;
 }
 
 .about-content p {
-  font-size: 8px;
+  font-size: 14px;
   margin: 2rem 0 3rem;
 }
 
@@ -489,7 +489,7 @@ main.row{
   }
   
   .home-content h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
   .home-img img {
     width: 70vw;
