@@ -354,9 +354,10 @@ main.row{
 }
 
 .footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
+  padding: 40px 0;
   background-color: var(--second-bg-color);
 }
 
