@@ -354,7 +354,7 @@ main.row{
 }
 
 .footer {
-  position: relative;
+  position: fixed;
   bottom: 0;
   width: 100%;
   padding: 40px 0;
